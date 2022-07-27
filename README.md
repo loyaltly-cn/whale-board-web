@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# vue3 + uview2 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+canvas 部分请参考 <a href ="https://github.com/loyaltly-cn/whale-board-meeting-manage"> meeting-manage </a>
 
-## Recommended IDE Setup
+音视频 aliyun sdk 使用 cnd 嵌入
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+```html
+<script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.19/aliplayer-min.js"></script>
+```
+
+<a href="https://help.aliyun.com/document_detail/125548.html"> aliyun web播放器文档 </a>
+
